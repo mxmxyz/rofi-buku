@@ -1,9 +1,6 @@
 # rofi-buku
 rofi frontend for buku bookmarks manager
 
-## Screenshot
-![Screenshot](images/screenshot.jpg)
-
 ## Features
 * Adding bookmarks with tags
 * Editing URLs and tags inline
